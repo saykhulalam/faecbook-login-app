@@ -44,9 +44,9 @@ const Login = () => {
   };
   return (
     <>
-      <div className="container mx-auto mt-5">
+      <div className="container mx-auto m-10">
         <div className="w-[364px] h-[312px] mx-auto">
-          <div className="bg-white shadow-md rounded px-8 pt-6 pb-8">
+          <div className="bg-[#FFFFFF] shadow-md rounded px-8 pt-6 pb-8">
             <h2 className="text-center text-xl font-bold mb-4">
               Login to Facebook
             </h2>
